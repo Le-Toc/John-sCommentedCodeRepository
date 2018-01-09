@@ -15,23 +15,23 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\John%27sCodeCommented\John-sCommentedCodeRepository\Example1\Example1\Main.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\John%27sCodeCommented\John-sCommentedCodeRepository\Example1\Example1\Game.cpp">
+    <ClCompile Include="Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\John%27sCodeCommented\John-sCommentedCodeRepository\Example1\Example1\Game.hpp">
+    <ClInclude Include="StringHelpers.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\John%27sCodeCommented\John-sCommentedCodeRepository\Example1\Example1\StringHelpers.hpp">
+    <ClInclude Include="Game.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\John%27sCodeCommented\John-sCommentedCodeRepository\Example1\Example1\StringHelpers.inl">
+    <None Include="StringHelpers.inl">
       <Filter>Header Files</Filter>
     </None>
   </ItemGroup>
